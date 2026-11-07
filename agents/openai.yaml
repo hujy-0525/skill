@@ -1,0 +1,13 @@
+interface:
+  display_name: "诗意复古印刷海报"
+  short_description: "把照片制作并迭代为有呼吸感的诗意复古半调印刷风格海报"
+  default_prompt: "Use $poetic-print-poster to turn my photo into a poetic vintage print poster."
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  products:
+    - "chatgpt"
+    - "codex"
+    - "api"
+    - "atlas"
+  allow_implicit_invocation: true
