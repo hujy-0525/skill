@@ -20,6 +20,4 @@ For Codex, place the repository folder in your skills directory, typically `~/.c
 
 Invoke it with `@poetic-print-poster` and attach a photo. For an existing poster, identify the exact poster to edit and state which elements must stay unchanged.
 
-## License
-
-See [LICENSE](LICENSE) when available.
+No license file is included yet; add the license you choose before accepting external contributions or granting reuse rights.
