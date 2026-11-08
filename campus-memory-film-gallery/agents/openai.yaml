@@ -1,0 +1,5 @@
+interface:
+  display_name: "Campus Memory Film Gallery"
+  short_description: "Build responsive campus photo film-strip galleries"
+  default_prompt: "Create or update a campus memory entry with a continuous film-strip gallery using the supplied photos."
+
